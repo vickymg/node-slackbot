@@ -1,4 +1,4 @@
-var request = require("request");
+var request = require('request');
 var chai = require('chai');
 var expect = chai.expect;
 var url = 'http://localhost:3000';
